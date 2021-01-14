@@ -1,0 +1,13 @@
+body {
+    background-color: seashell;
+}
+
+.span {
+    color:rgb(109, 151, 168);
+}
+
+button {
+    background-color:rgb(109, 151, 168);
+    color: black;
+    padding: 5px
+}
