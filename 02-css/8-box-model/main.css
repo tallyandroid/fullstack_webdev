@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: space-between;
+}
+div {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(100, 203, 457);
+    border: 5px solid black;
+    padding: 5px;
+    box-sizing: border-box;
+    margin: 2px;
+}
+
+h1 {
+    background-color: pink;
+}
+
+#one {
+    background-color: rgb(246, 245, 174);
+    margin-top: 5px;
+}
+
+#two {
+    background-color: rgb(27, 153, 139);
+}
+
+#three {
+    background-color: rgb(197, 216, 109);
+}
