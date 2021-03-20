@@ -1,0 +1,51 @@
+body {
+    background-color: seashell;
+}
+
+.span {
+    color:rgb(109, 151, 168);
+}
+
+button {
+    background-color:rgb(109, 151, 168);
+    color: black;
+    padding: 5px
+}
+
+span a {
+    color: #457b9d;
+}
+
+.post a {
+    color: #457b9d;
+}
+
+h1 + p {
+    background-color:silver;
+    font-size: 20px;
+}
+
+input[type="password"] {
+    color: greenyellow;
+}
+
+.post button:hover {
+    background-color: #e63946;
+    color: #f1faee;
+}
+
+.post:nth-of-type(3) {
+    background-color: #dfe8dc;
+}
+
+h2::first-letter {
+    font-size: 50px;
+}
+
+p::first-line {
+    color: purple;
+}
+
+h1, h2 {
+    color: yellow;
+}
